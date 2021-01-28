@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I have some _really_ awesome traits. Wanna know?
+
+I am always **eager to _learn_**
+
+This is the only one I am gonna tell!
+:tada:
